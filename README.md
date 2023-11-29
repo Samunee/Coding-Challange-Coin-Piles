@@ -26,14 +26,14 @@ Program ini menggunakan fungsi `canEmptyPiles(piles)` yang mengambil daftar tump
 Input: <br>
 Masukkan jumlah tes: 3 <br>
 Masukkan jumlah koin dalam tumpukan: <br>
-`2 1
-2 2
-3 3`
+`2 1` <br>
+`2 2` <br>
+`3 3` <br>
 
 Output: <br>
-`YES
-NO
-YES`
+`YES` <br>
+`NO` <br>
+`YES` <br>
 
 
 ## Catatan Tambahan
