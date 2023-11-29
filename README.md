@@ -48,10 +48,10 @@ Output: <br>
 
 ### Kompleksitas Waktu dan Ruang
 
-Algoritma solusi yang diimplementasikan memiliki kompleksitas waktu O(n) dan kompleksitas ruang O(1), di mana n adalah jumlah tes atau tumpukan koin yang diberikan sebagai input.
+Algoritma solusi yang diimplementasikan memiliki kompleksitas waktu O(n) dan kompleksitas ruang O(n), di mana n adalah jumlah tes atau tumpukan koin yang diberikan sebagai input.
 
 - **Time Complexity**: Algoritma memiliki kompleksitas waktu O(n), di mana setiap tumpukan koin dicek satu per satu. Dalam setiap pengujian, hanya ada beberapa perbandingan matematika sederhana yang dilakukan, yang tidak bergantung pada ukuran tumpukan koin.
-- **Space Complexity**: Algoritma memiliki kompleksitas ruang O(1) karena hanya menggunakan variabel sementara seperti `a` dan `b` untuk menyimpan jumlah koin dari tumpukan pertama dan kedua.
+- **Space Complexity**: Algoritma memiliki kompleksitas ruang O(n) karena menyimpan jumlah koin dalam tumpukan untuk setiap tes dalam array 'piles', yang ukurannya akan tumbuh seiring bertambahnya jumlah tes yang diberikan.
 
 Solusi ini dianggap efisien karena melakukan perhitungan dengan jumlah operasi yang konstan, tidak tergantung pada ukuran tumpukan koin, sehingga dapat menyelesaikan masalah Coin Piles dalam waktu yang cepat tanpa memerlukan banyak ruang memori.
 
