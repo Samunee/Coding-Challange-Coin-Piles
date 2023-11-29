@@ -1,8 +1,8 @@
 // Function untuk memeriksa apakah tumpukan koin dapat dikosongkan
 function canEmptyPiles(piles) {
     for (let i = 0; i < piles.length; i++) {
-        let a = piles[i][0]; // TODO: Menyimpan jumlah koin dari tumpukan pertama
-        let b = piles[i][1]; // TODO: Menyimpan jumlah koin dari tumpukan kedua
+        let a = piles[i][0]; // Menyimpan jumlah koin dari tumpukan pertama
+        let b = piles[i][1]; // Menyimpan jumlah koin dari tumpukan kedua
 
         // Memeriksa apakah aturan pengosongan tumpukan terpenuhi
         if ((a + b) % 3 === 0 && Math.max(a, b) <= 2 * Math.min(a, b)) {
@@ -21,8 +21,8 @@ const rl = readline.createInterface({
     output: process.stdout,
 });
 
-let t = 0; // TODO: Jumlah tes
-let piles = []; // TODO: Array untuk menyimpan jumlah koin dalam tumpukan untuk setiap tes
+let t = 0; // Jumlah tes
+let piles = []; // Array untuk menyimpan jumlah koin dalam tumpukan untuk setiap tes
 
 // Meminta pengguna memasukkan jumlah tes
 rl.question("Masukkan jumlah tes: ", (numTests) => {
