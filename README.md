@@ -46,7 +46,7 @@ Output: <br>
 - **Dokumentasi yang Jelas dan Tepat**: README.md memberikan penjelasan yang baik dan tepat tentang cara menggunakan program, contoh input-output, serta cara kerja dan kompleksitas algoritma.
 - **Ringkasan yang Jelas**: Ringkasan yang jelas dan singkat tentang tujuan program dan aturan yang dijalankan.
 
-### Kompleksitas Waktu dan Ruang
+## Kompleksitas Waktu dan Ruang
 
 Algoritma solusi yang diimplementasikan memiliki kompleksitas waktu O(n) dan kompleksitas ruang O(n), di mana n adalah jumlah tes atau tumpukan koin yang diberikan sebagai input.
 
