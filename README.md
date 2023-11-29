@@ -35,6 +35,17 @@ Output: <br>
 `NO` <br>
 `YES` <br>
 
+## Kriteria Penilaian
+
+- **Fungsionalitas Program**: Program memberikan keluaran yang tepat berdasarkan aturan pengosongan tumpukan koin.
+- **Time Complexity dan Space Complexity**: Algoritma memiliki kompleksitas waktu O(n) dan ruang O(n), dengan penjelasan yang jelas dan terperinci dalam dokumentasi kode.
+- **Kode yang Jelas dan Dikelola dengan Baik**: Kode ditulis dengan baik, mudah dipahami, dan terdokumentasi dengan baik dengan komentar yang relevan dan deskripsi fungsi yang jelas.
+- **Kemampuan Memproses Input**: Program mampu menerima input dari pengguna melalui terminal menggunakan modul `readline` dan memberikan output yang sesuai berdasarkan input yang diberikan.
+- **Penggunaan Node.js dan Command Line Interface (CLI)**: Program menggunakan Node.js dan dapat dijalankan dari terminal sebagai aplikasi berbasis CLI.
+- **Ketepatan dan Kesesuaian Hasil**: Program memberikan hasil yang sesuai dengan aturan yang ditetapkan untuk setiap tumpukan koin yang diinputkan oleh pengguna.
+- **Dokumentasi yang Jelas dan Tepat**: README.md memberikan penjelasan yang baik dan tepat tentang cara menggunakan program, contoh input-output, serta cara kerja dan kompleksitas algoritma.
+- **Ringkasan yang Jelas**: Ringkasan yang jelas dan singkat tentang tujuan program dan aturan yang dijalankan.
+
 
 ## Catatan Tambahan
 
