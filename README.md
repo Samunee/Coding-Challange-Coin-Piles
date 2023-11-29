@@ -63,4 +63,4 @@ Solusi ini dianggap efisien karena melakukan perhitungan dengan jumlah operasi y
 - Kode ini dimasukkan ke dalam sebuah CLI (Command Line Interface) menggunakan Node.js dan dapat dijalankan dari terminal.
 
 ---
-Dibuat oleh [Nama Anda](https://github.com/username-anda)
+Dibuat oleh [Fitra Muhammad Anugrah](https://github.com/Samunee)
